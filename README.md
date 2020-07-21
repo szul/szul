@@ -1,7 +1,4 @@
-### [Codepunk](https://codepunk.io)
-
-### [🤖+🍺](https://botsandbeer.com)
-
-### [a<sup>n</sup> + b<sup>n</sup> = c<sup>n</sup>](https://quietmath.co)
-
-### [I make videos too](https://youtube.com/c/codepunk)
+|      Electrons       |      Paper       |         Pixels          |
+| ----------- | ----------- |-----------------|
+| [a<sup>n</sup> + b<sup>n</sup> = c<sup>n</sup>](https://quietmath.co) | [Codepunk](https://codepunk.io) | [I make videos too](https://youtube.com/c/codepunk) |
+|  | [🤖+🍺](https://botsandbeer.com)  |
