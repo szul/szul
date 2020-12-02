@@ -1,3 +1,1 @@
-|      Electrons       |      Paper       |         Pixels          |
-| ----------- | ----------- |-----------------|
-| [a<sup>n</sup> + b<sup>n</sup> = c<sup>n</sup>](https://quietmath.co) | [codepunk](https://codepunk.io) | [videos](https://youtube.com/c/codepunk) |
+| [electrons](https://quietmath.co) | [paper](https://codepunk.io) | [pixels](https://youtube.com/c/codepunk) |
